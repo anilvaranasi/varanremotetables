@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="varancreds">19ad81d187d8911070294087cebb35fd</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>Remote Instance Incidents</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://dev111463.service-now.com/api/now/table/incident?sysparm_limit=10&amp;caller_id=admin</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2023-12-01 07:08:39</sys_created_on>
+        <sys_id>afa419de07be3d14b965f7208c1ed047</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Remote Instance Incidents</sys_name>
+        <sys_package display_value="VaranRemoteTables" source="x_146833_varanremo">a93b051a073e3d14b965f7208c1ed0cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VaranRemoteTables">a93b051a073e3d14b965f7208c1ed0cf</sys_scope>
+        <sys_update_name>sys_rest_message_afa419de07be3d14b965f7208c1ed047</sys_update_name>
+        <sys_updated_by>adminanil</sys_updated_by>
+        <sys_updated_on>2023-12-01 07:12:48</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
